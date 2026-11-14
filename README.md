@@ -42,6 +42,8 @@ Use an environment variable for the MongoDB URI and never commit credentials.
 
 The current prototype needs production hardening, including environment-based secrets, secure sessions/tokens, rate limiting, input validation, CSRF protection, HTTPS, and authorization checks.
 
+See [`docs/API.md`](docs/API.md) for the implemented route summary and [`SECURITY.md`](SECURITY.md) for safe reporting and deployment guidance.
+
 ## Status
 
 Learning/prototype project.
